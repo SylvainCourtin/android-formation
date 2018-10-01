@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ma connexion</string>
+    <string name="username">Nom de l\'utilisateur</string>
+    <string name="password">Mot de passe</string>
+    <string name="passwordConfirm">Mot de passe (confirmation)</string>
+    <string name="button_connexion">CONNEXION</string>
+    <string name="failConnexion"> La connexion a échoué</string>
+    <string name="logout">Deconnexion</string>
+    <string name="signin">S\'inscrire</string>
+    <string name="welcome">Bienvenue sur cet chat de fou furieux qui est connecté à personne pour le moment</string>
+</resources>
